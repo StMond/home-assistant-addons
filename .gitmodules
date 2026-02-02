@@ -1,0 +1,9 @@
+[submodule "home-assistant-addon-olm"]
+	path = home-assistant-addon-olm
+	url = https://github.com/StMond/home-assistant-addon-olm.git
+[submodule "home-assistant-addon-newt"]
+	path = home-assistant-addon-newt
+	url = https://github.com/StMond/home-assistant-addon-newt.git
+[submodule "home-assistant-addon-phev2mqtt"]
+	path = home-assistant-addon-phev2mqtt
+	url = https://github.com/StMond/home-assistant-addon-phev2mqtt.git
